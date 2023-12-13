@@ -56,7 +56,7 @@ SHOW GRANTS FOR 'user'@'%';
 ```
 14. write a command to create database
 ```bash
-// Same as befor:
+// Same as before:
 CREATE DATABASE name_of_database;
 ```
 15. write a command to create table
